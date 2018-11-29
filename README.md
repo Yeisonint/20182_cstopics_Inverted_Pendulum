@@ -19,22 +19,24 @@ This project was developed in the **Universidad Santo Tomás**, in Bogotá Colom
 ##**Physical model**
 
 
-![](https://pbs.twimg.com/media/DtKqQEsWkAAmKNu.jpg "Modelo físico") ![](https://pbs.twimg.com/media/DtKqSnNXgAAlpOV.jpg:large "Modelo físico")
-##**user interface**
-![](https://pbs.twimg.com/media/DtKzFi0XQAU0XOu.png)
+![alt text](https://pbs.twimg.com/media/DtKqQEsWkAAmKNu.jpg "Modelo físico") ![](https://pbs.twimg.com/media/DtKqSnNXgAAlpOV.jpg:large "Modelo físico")
+
+## **user interface**
+
+![alt text](https://pbs.twimg.com/media/DtKzFi0XQAU0XOu.png)
 
 ## **Technical specifications**
 **Reward table:**
-![](https://pbs.twimg.com/media/DtK0uAnX4AAgDyz.jpg)
+![alt text](https://pbs.twimg.com/media/DtK0uAnX4AAgDyz.jpg)
 
 **Discretization of the state space**
-![](https://pbs.twimg.com/media/DtLG87RXcAEeQ3Q.jpg)
+![alt text](https://pbs.twimg.com/media/DtLG87RXcAEeQ3Q.jpg)
 480 cells in the discrete states table   
 4320 cells in the state action space 9 Actions.
 
 #####
 ##**Block diagram:**
-![](https://pbs.twimg.com/media/DtLL8wGWoAExPMz.jpg "Block diagram")
+![alt text](https://pbs.twimg.com/media/DtLL8wGWoAExPMz.jpg "Block diagram")
 
 #####
 **Proyect's video:**
