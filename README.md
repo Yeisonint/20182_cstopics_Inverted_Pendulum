@@ -1,22 +1,13 @@
 ## **REINFORCENMENT LEARNING IN AN INVERTED PENDULUM**   
 
-#####
 
 Project carried out by **Alison Gissell Ruiz Ruiz** and **Yeison Estiven Suarez Huertas**.   
- 
-#####
 
 In this proyect, reinforcement learning was carried out in an inverted pendulum by applying **Q-learning** in python and using an OpenCM 9.04 development card for motor management and encoder reading.
 
-#####
-
-
-
 This project was developed in the **Universidad Santo Tomás**, in Bogotá Colombia, in the [course Introduction to Artificial Intelligence](https://cstopics.github.io/cstopics/artificial-intelligence/syllabusAI)
 
-
-#####
-##**Physical model**
+## **Physical model**
 
 
 ![alt text](https://pbs.twimg.com/media/DtKqQEsWkAAmKNu.jpg "Modelo físico") ![](https://pbs.twimg.com/media/DtKqSnNXgAAlpOV.jpg:large "Modelo físico")
@@ -35,7 +26,7 @@ This project was developed in the **Universidad Santo Tomás**, in Bogotá Colom
 4320 cells in the state action space 9 Actions.
 
 #####
-##**Block diagram:**
+## **Block diagram:**
 ![alt text](https://pbs.twimg.com/media/DtLL8wGWoAExPMz.jpg "Block diagram")
 
 #####
