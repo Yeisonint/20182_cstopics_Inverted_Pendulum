@@ -16,27 +16,30 @@ This project was developed in the **Universidad Santo Tomás**, in Bogotá Colom
 ![imagen](https://user-images.githubusercontent.com/22075617/49230928-cf2d7a00-f3be-11e8-9a25-a335163ba077.png)
 
 ## **Technical specifications**
-**Reward table:**
+### **Reward table:**
+
 ![q_values](https://user-images.githubusercontent.com/22075617/49231442-f173c780-f3bf-11e8-9176-0cd337b4ee0b.png)
 
 
-**Discretization of the state space**
+### **Discretization of the state space:**
+
+
 ![sin titulo](https://user-images.githubusercontent.com/22075617/49231562-3861bd00-f3c0-11e8-8b33-eb2e889365ee.png)
 
 480 cells in the discrete states table   
 4320 cells in the state action space 9 Actions.
 
-#####
-## **Block diagram:**
+
+### **Block diagram:**
 ![alt text](https://pbs.twimg.com/media/DtLL8wGWoAExPMz.jpg "Block diagram")
 
-#####
-**Proyect's video:**
+### **Proyect's video:**
 
 
 [Click here](http:/ ) to watch the Proyect's Youtube video
-#####
-**Dependencies and instructions to run the Project:**
+
+
+### **Dependencies and instructions to run the Project:**
 
 To run this project you must first install    
 
@@ -53,8 +56,12 @@ Inside python you must install some dependencies:
 -Numpy   
 -Lib.   
 
-#####
-**Resource:** [CartPole-v0 from Gym environmet](https://gym.openai.com/evaluations/eval_lEi8I8v2QLqEgzBxcvRIaA/)
-#####
-**Source code:** [github.com/Yeisonint/20182_cstopics_Inverted_Pendulum](https://github.com/Yeisonint/20182_cstopics_Inverted_Pendulum)
+### **Resource:** 
+
+[CartPole-v0 from Gym environmet](https://gym.openai.com/evaluations/eval_lEi8I8v2QLqEgzBxcvRIaA/)
+
+
+### Source code:
+
+[github.com/Yeisonint/20182_cstopics_Inverted_Pendulum](https://github.com/Yeisonint/20182_cstopics_Inverted_Pendulum)
 
