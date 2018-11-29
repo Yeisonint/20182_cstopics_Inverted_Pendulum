@@ -1,4 +1,4 @@
-﻿## **REINFORCENMENT LEARNING IN AN INVERTED PENDULUM**   
+## **REINFORCENMENT LEARNING IN AN INVERTED PENDULUM**   
 
 #####
 
@@ -53,4 +53,4 @@ Inside python you must install some dependencies as PyQt5, PySerial, Numpy, Lib.
 **Resource:** [CartPole-v0 from Gym environmet](https://gym.openai.com/evaluations/eval_lEi8I8v2QLqEgzBxcvRIaA/)
 #####
 **Source code:** [github.com/Yeisonint/20182_cstopics_Inverted_Pendulum](https://github.com/Yeisonint/20182_cstopics_Inverted_Pendulum)
- 
+
