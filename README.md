@@ -8,8 +8,7 @@ This project was developed in the **Universidad Santo Tomás**, in Bogotá Colom
 
 ## Physical model
 
-![whatsapp image 2018-11-29 at 6 23 15 am 1](https://user-images.githubusercontent.com/22075617/49231219-79a59d00-f3bf-11e8-8784-0aa7621154be.jpeg "Modelo Fisico")
-![](https://pbs.twimg.com/media/DtKqSnNXgAAlpOV.jpg:large "Modelo físico")
+![whatsapp image 2018-11-29 at 6 23 15 am](https://user-images.githubusercontent.com/22075617/49232643-55978b00-f3c2-11e8-9a3e-126cdfc94e15.jpeg)
 
 ## User interface
 
